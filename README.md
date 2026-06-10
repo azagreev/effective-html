@@ -38,3 +38,5 @@ npx skills add plannotator/effective-html --skill html-plan
 ## Repository Shape
 
 Skills live under `skills/<skill-name>/SKILL.md`. Each skill also bundles a copy of the `html-effectiveness` example corpus under `references/html-effectiveness/` so the examples stay local to the skill.
+
+Credit: inspired by https://thariqs.github.io/html-effectiveness

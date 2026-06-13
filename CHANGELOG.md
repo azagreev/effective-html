@@ -5,6 +5,11 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [0.1.1] - 2026-06-13
+
+### Fixed
+- Light-theme accent contrast: darkened `--clay` (#C25E3C → #B45738) and `--gold` (#9A6B1F → #98691F) in both exemplars so all accent text meets WCAG AA (≥4.5:1) for normal text on both backgrounds, not only large text. Dark theme already AAA; unchanged.
+
 ## [0.1.0] - 2026-06-13
 
 ### Added
@@ -18,4 +23,5 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ### Changed
 - README install instructions corrected to the fork `azagreev/effective-html` npx slug (previously pointed at the upstream org); added marketplace section and upstream attribution.
 
+[0.1.1]: https://github.com/azagreev/effective-html/releases/tag/v0.1.1
 [0.1.0]: https://github.com/azagreev/effective-html/releases/tag/v0.1.0

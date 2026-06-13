@@ -1,6 +1,6 @@
 {
   "name": "effective-html",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Skills for generating self-contained HTML artifacts — html, html-diagram, html-plan — in the effective-HTML style with dark mode support.",
   "author": {
     "name": "Andrey Zagreev",
